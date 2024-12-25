@@ -20,7 +20,7 @@ _Columns_
 
 **Data Statistics**
 
--Total Records: 6,524
+-Total Records: 6,125
 -Frequency: Daily (excluding weekends and holidays)
 
 **Summary Statistics**
